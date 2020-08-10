@@ -1,7 +1,7 @@
 import React from 'react';
 
 // components
-import Hero from './components/hero'
+import Hero from './components/hero/hero'
 
 function App() {
   return (
